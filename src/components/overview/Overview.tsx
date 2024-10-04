@@ -264,7 +264,7 @@ const Overview: FC = () => {
             position: "fixed",
             bottom: 0,
             left: 0,
-            width: "98.4%",
+            width: "100%",
             backgroundColor: "#452AF4",
             zIndex: 4,
             height: "46px",

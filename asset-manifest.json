@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/uspacy/static/css/main.0f7d39dd.css",
+    "main.css": "/uspacy/static/css/main.9736d956.css",
     "main.js": "/uspacy/static/js/main.64390f4e.js",
-    "static/media/background.png": "/uspacy/static/media/background.d8c1f0385aedb6ffdd17.png",
+    "static/media/background.png": "/uspacy/static/media/background.246aac40817c6dcdb5ed.png",
     "static/media/uspacy-logo-main.png": "/uspacy/static/media/uspacy-logo-main.1200b273b848b1c9bfc3.png",
     "static/media/Montserrat-ExtraBold.ttf": "/uspacy/static/media/Montserrat-ExtraBold.6c8b198832c88c649faa.ttf",
     "static/media/Montserrat-Black.ttf": "/uspacy/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
@@ -21,11 +21,11 @@
     "static/media/slash.svg": "/uspacy/static/media/slash.fae676e6d0fd0477c0d51fa77aba9083.svg",
     "static/media/dash-data.svg": "/uspacy/static/media/dash-data.327fc0d481c37f39b468306146d0331c.svg",
     "static/media/check-box.svg": "/uspacy/static/media/check-box.86d0755844a3d2156b6a4fe387b781ae.svg",
-    "main.0f7d39dd.css.map": "/uspacy/static/css/main.0f7d39dd.css.map",
+    "main.9736d956.css.map": "/uspacy/static/css/main.9736d956.css.map",
     "main.64390f4e.js.map": "/uspacy/static/js/main.64390f4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f7d39dd.css",
+    "static/css/main.9736d956.css",
     "static/js/main.64390f4e.js"
   ]
 }

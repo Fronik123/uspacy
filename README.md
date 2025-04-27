@@ -1,6 +1,13 @@
 View site
 https://fronik123.github.io/uspacy/
 
+
+How to run:  
+
+1.    download dependencies: npm install  
+2.    run the dev server: npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

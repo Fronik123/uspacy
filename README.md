@@ -7,7 +7,7 @@ How to run:
 1.    Download dependencies: npm install  
 2.    Run the dev server: npm start
 
-## Стек технологий
+## Technology stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Formik](https://img.shields.io/badge/Formik-000000?style=for-the-badge&logo=formik&logoColor=white)

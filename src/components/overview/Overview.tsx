@@ -249,7 +249,7 @@ const Overview: FC = () => {
           </Box>
 
           <img
-            style={{ width: "98vw", position: "absolute", top: "0" }}
+            style={{ width: "100%", position: "absolute", top: "0" }}
             src={UspacyLogoMain}
             alt=""
           />

@@ -84,6 +84,9 @@ const MainInput: FC<Input> = ({
                                 ? "#F7696B"
                                 : "#7C69F7",
                           },
+                          "& :-webkit-autofill": {
+                            transitionDelay: "9999s",
+                          },
                         },
                         "& .MuiInputBase-input": {
                           color: "#FFFFFF",
@@ -138,7 +141,7 @@ const MainInput: FC<Input> = ({
               ) : (
                 <TextField
                   multiline={multiline}
-                  rows={multiline ? 2 : 1}
+                  rows={multiline ? 4 : 1}
                   {...field}
                   id={name}
                   label={
@@ -164,7 +167,6 @@ const MainInput: FC<Input> = ({
                   sx={{
                     fontFamily: "'ManropeMedium', sans-serif",
                     width: "100%",
-
                     borderRadius: "4px",
                     color: "white",
                     backgroundColor: "#FFFFFF0A",
@@ -209,6 +211,9 @@ const MainInput: FC<Input> = ({
                       color: "#FFFFFF66",
                       fontFamily: "'ManropeMedium', sans-serif",
                       fontSize: xs ? "0.75rem" : sm ? "0.875rem" : "1rem",
+                    },
+                    "& :-webkit-autofill": {
+                      transitionDelay: "9999s",
                     },
                   }}
                 />

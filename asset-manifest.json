@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/uspacy/static/css/main.9736d956.css",
-    "main.js": "/uspacy/static/js/main.a08b3c64.js",
-    "static/media/background.png": "/uspacy/static/media/background.246aac40817c6dcdb5ed.png",
-    "static/media/uspacy-logo-main.png": "/uspacy/static/media/uspacy-logo-main.1200b273b848b1c9bfc3.png",
+    "main.css": "/uspacy/static/css/main.a8258eab.css",
+    "main.js": "/uspacy/static/js/main.505f8705.js",
+    "static/media/background.png": "/uspacy/static/media/background.ad8e13f624e0bff9f8ca.png",
     "static/media/Montserrat-ExtraBold.ttf": "/uspacy/static/media/Montserrat-ExtraBold.6c8b198832c88c649faa.ttf",
     "static/media/Montserrat-Black.ttf": "/uspacy/static/media/Montserrat-Black.beacc26b4bbaaf608567.ttf",
     "static/media/Montserrat-Bold.ttf": "/uspacy/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
@@ -14,18 +13,19 @@
     "static/media/Manrope-Medium.ttf": "/uspacy/static/media/Manrope-Medium.08894ccb04665d1a9d53.ttf",
     "static/media/Manrope-Regular.ttf": "/uspacy/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
     "static/media/Manrope-Bold.ttf": "/uspacy/static/media/Manrope-Bold.47f6d7143da9d8c0e480.ttf",
-    "static/media/logo-company.svg": "/uspacy/static/media/logo-company.92963f3413dfa48b118745ed2f95e831.svg",
+    "static/media/uspacy-logo-main.png": "/uspacy/static/media/uspacy-logo-main.d7309e43e98c8b1fec35.png",
+    "static/media/logo-company.svg": "/uspacy/static/media/logo-company.ee42c296460bc6c4fb4f17df3a0fb535.svg",
     "index.html": "/uspacy/index.html",
     "static/media/download.svg": "/uspacy/static/media/download.19f5e1b10a36e9e252607eb38ecc1c30.svg",
     "static/media/check-box-checked.svg": "/uspacy/static/media/check-box-checked.7f9ce037320fefe76e1134e572a83038.svg",
     "static/media/slash.svg": "/uspacy/static/media/slash.fae676e6d0fd0477c0d51fa77aba9083.svg",
     "static/media/dash-data.svg": "/uspacy/static/media/dash-data.327fc0d481c37f39b468306146d0331c.svg",
     "static/media/check-box.svg": "/uspacy/static/media/check-box.86d0755844a3d2156b6a4fe387b781ae.svg",
-    "main.9736d956.css.map": "/uspacy/static/css/main.9736d956.css.map",
-    "main.a08b3c64.js.map": "/uspacy/static/js/main.a08b3c64.js.map"
+    "main.a8258eab.css.map": "/uspacy/static/css/main.a8258eab.css.map",
+    "main.505f8705.js.map": "/uspacy/static/js/main.505f8705.js.map"
   },
   "entrypoints": [
-    "static/css/main.9736d956.css",
-    "static/js/main.a08b3c64.js"
+    "static/css/main.a8258eab.css",
+    "static/js/main.505f8705.js"
   ]
 }

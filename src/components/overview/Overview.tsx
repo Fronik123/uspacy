@@ -56,7 +56,7 @@ const Overview: FC = () => {
           spacing={0}
           sx={{
             justifyContent: "space-between",
-            alignItems: "flex-start",
+            alignItems: "center",
             paddingTop: xs ? "34px" : sm ? "54px" : "74px",
             paddingBottom: xs ? "65px" : sm ? "80px" : "103px",
             position: "sticky",
@@ -64,7 +64,7 @@ const Overview: FC = () => {
             zIndex: "5",
           }}
         >
-          <img src={LogoCompany} alt="logo company" />
+          <img src={LogoCompany} alt="logo company" width="35" height="32" />
 
           <Button
             variant="contained"
@@ -115,9 +115,10 @@ const Overview: FC = () => {
             >
               Онлайн-конференція
             </Typography>
-
             <img
               src={Slash}
+              width={27}
+              height={43}
               alt=""
               style={{
                 marginLeft: "10px",
@@ -171,10 +172,10 @@ const Overview: FC = () => {
             variant="contained"
             sx={{
               backgroundColor: "#452AF4",
+              color: "#FFFFFF",
               textTransform: "none",
               fontFamily: '"ManropeSemiBold", sans-serif',
               fontSize: xs ? "0.75rem" : sm ? "0.875rem" : "1rem",
-              color: "#FFFFFF",
               borderRadius: "100px",
               boxShadow: "none",
               width: xs ? "145px" : sm ? "180px" : "213px",
